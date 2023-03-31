@@ -1,4 +1,4 @@
-# My Project
+# Python password generator
 
 This is a sample project that demonstrates a simple implementation of a password generator.
 
