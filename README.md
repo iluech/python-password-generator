@@ -28,8 +28,8 @@ If you find any bugs or issues with the program, feel free to open an issue on t
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the LICENSE file for details.
 
 ## Acknowledgments
 
-This program is based on the Python password generator tutorial on GeeksforGeeks.
+This program is based on the [Python password generator tutorial](https://www.geeksforgeeks.org/generating-strong-password-using-python/) on GeeksforGeeks.
