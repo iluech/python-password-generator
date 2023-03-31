@@ -2,7 +2,7 @@
 
 This is a simple Python program that generates random passwords based on user input. The user can specify the length of the password and the program provides a randomly generated password that contains a combination of letters, digits, and special characters.
 
-##Prerequisites
+## Prerequisites
 
 To run this program, you need to have Python installed on your computer. The program is compatible with Python 3.x.
 
