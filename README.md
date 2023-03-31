@@ -36,6 +36,7 @@ This program is based on the [Python password generator tutorial](https://www.ge
 
 ## Contact Me
 
-[Website] : https://iluech.com / Go to [Website](https://iluech.com)
-[E-mail]  : realsianor@gmail.com / Send an [E-mail](mailto:realsianor@gmail.com)
+Website  : https://iluech.com / Go to [Website](https://iluech.com)
+
+E-mail   : realsianor@gmail.com / Send an [E-mail](mailto:realsianor@gmail.com)
 
