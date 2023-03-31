@@ -14,5 +14,15 @@ def generate_password():
 
         print('Your Password: {}'.format(password))
 
-        # exit the loop after generating the password
-        break
+        # ask the user if they want to create another password
+        choice = ''
+        while choice.lower() not in ['y', 'yes', 'n', 'no', 'q']:
+            choice = input('Do you want to create another password? (Y/N/Q): ')
+            if choice.lower() in ['n', 'no', 'q']:
+                return  # exit the function and end the program
+
+        # exit the function if user enters "n" or "q"
+        if choice.lower() in ['n', 'no', 'q']:
+            return
+
+generate_password() # call the function to generate password
